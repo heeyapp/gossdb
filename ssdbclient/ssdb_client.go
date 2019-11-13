@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/seefan/goerr"
+	"github.com/heeyapp/goerr"
 	"github.com/heeyapp/gossdb/conf"
 )
 
