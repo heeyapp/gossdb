@@ -4,7 +4,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/seefan/gossdb/conf"
+	"github.com/heeyapp/gossdb/conf"
 )
 
 func BenchmarkConnectors_NewClient10(b *testing.B) {

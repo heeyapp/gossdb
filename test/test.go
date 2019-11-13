@@ -14,8 +14,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/seefan/gossdb"
-	"github.com/seefan/gossdb/conf"
+	"github.com/heeyapp/gossdb"
+	"github.com/heeyapp/gossdb/conf"
 )
 
 func main() {

@@ -3,8 +3,8 @@ package gossdb
 import (
 	"errors"
 
-	"github.com/seefan/gossdb/conf"
-	"github.com/seefan/gossdb/pool"
+	"github.com/heeyapp/gossdb/conf"
+	"github.com/heeyapp/gossdb/pool"
 )
 
 var (

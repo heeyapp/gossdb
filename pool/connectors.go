@@ -10,10 +10,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/seefan/gossdb/client"
-	"github.com/seefan/gossdb/conf"
-	"github.com/seefan/gossdb/consts"
-	"github.com/seefan/gossdb/ssdbclient"
+	"github.com/heeyapp/gossdb/client"
+	"github.com/heeyapp/gossdb/conf"
+	"github.com/heeyapp/gossdb/consts"
+	"github.com/heeyapp/gossdb/ssdbclient"
 )
 
 //Connectors connection pool

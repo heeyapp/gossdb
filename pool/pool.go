@@ -3,7 +3,7 @@ package pool
 import (
 	"errors"
 
-	"github.com/seefan/gossdb/consts"
+	"github.com/heeyapp/gossdb/consts"
 )
 
 //Pool pool block
